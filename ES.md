@@ -59,6 +59,6 @@ Bien, ya cumplimos con lo mínimo requerido, ¿y ahora qué? Verifiquemos cómo 
 
 TDD no es nada complicado: creamos los casos de prueba, desarrollamos el código, lo refactorizamos y repetimos el proceso. Lo único desafiante es que reta las costumbres habituales de muchos desarrolladores al invertir el proceso tradicional, colocando los tests al frente. Pero esto solo es cuestión de práctica y adaptación.
 
-# Codigo fuente
+# Recursos
 
-...
+[GitHub](https://github.com/jacksonguerrer0/TDD-example)
